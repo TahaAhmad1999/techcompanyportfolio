@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.carousel-item img{
+    width: 100%;
+    height: 85vh;
+
+}
+.footer p{
+    margin-bottom: 0%;
+}
+
+.text1{
+    font-size: 44px;
+    line-height: 43px;
+    letter-spacing: 2.88px;
+    color: #6ec1e4;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.text2{
+    color: #253EB5;
+}
+
+.text3{
+    color: #646E9F;
+    font-family: "CamphorW01-Regular", Sans-serif;
+    font-size: 22px;
+    line-height: 36px;
+    letter-spacing: 0.24px;
+    text-align: center;
+    display: flex;
+    padding-left: 100px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.khurram2{
+    height: 300px;
+    width: 70%;
+    margin-left: 65px;
+    padding-top: 10px;
+}
+
+.founders{
+    font-family: "CamphorW04-Bold", Sans-serif;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 0px;
+    color: #253EB5;
+    font-weight: 600;
+    text-align: center;
+    margin-top: -50px;
+}
+
+.founders2{
+    font-family: "CamphorW01-Medium", Sans-serif;
+    font-size: 18px;
+    line-height: 13px;
+    color: #74819F;
+    text-align: center;
+}
+
+.joinnow{
+    border-radius: 15px;
+}
+
+.facebook{
+    height: auto;
+    max-width: 100%;
+    border: none;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
